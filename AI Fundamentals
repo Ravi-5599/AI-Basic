@@ -1,0 +1,99 @@
+I’m sure everyone has heard about AI. Nowadays, almost everyone is familiar with it, so the basics are already known to most people. But what exactly is AI?
+AI stands for Artificial Intelligence. Here, artificial means something that is created by humans, and intelligence refers to the ability to think, learn, understand, and make decisions. In simple terms, AI is a human-made technology that is designed to mimic human intelligence
+Today's AI is much more advanced than before. In fact, some people even say that AI can perform certain tasks better and faster than humans. That is why modern AI is often compared to human intelligence, and in the future, it may become even more powerful.
+If we look at older machines, they worked based on fixed programs. We gave them instructions, commands, and predefined techniques, and they produced results accordingly. They could only do what they were programmed to do.
+However, modern AI is different. Instead of only following fixed instructions, AI can learn from data. It can identify patterns, gain insights, and improve its performance over time. It can work with different types of data such as text, images, speech, and videos.
+Examples of modern AI include self-driving cars, speech recognition systems, recommendation systems, and virtual assistants. What makes AI special is its ability to learn from data, recognize patterns, and solve complex problems effectively.
+
+==============================Types of AI=================================================================================
+
+
+Now let's talk about the types of AI. AI can be categorized into different types based on its capabilities and the way it performs tasks. Understanding these types helps us better understand how AI works.
+
+Reactive Machine AI
+
+The first type is Reactive Machine AI. This is the most basic form of AI. These systems do not have memory and cannot learn from past experiences. They simply react to the current situation and make decisions based on the data available at that moment.
+Since they have no memory, they cannot improve themselves by learning from previous actions. They only perform the tasks for which they have been programmed.
+position of the chessboard and choose the best move, but it could not learn from previous games or store experiences for future use.
+One advantage of Reactive Machine AI is that it is relatively simple to design and can perform specific tasks very efficiently. However, its biggest limitation is that it cannot learn, adapt, or understand situations beyond its programming. Because of this, it cannot handle complex or changing environments effectively
+
+Limited Memory AI
+
+The second type of AI is called Limited Memory AI.
+As the name suggests, Limited Memory AI can learn from past data and experiences for a certain period of time. Unlike Reactive Machines, these systems can store information, analyze previous data, and use it to make better decisions in the future.
+Most modern AI applications fall into this category. These systems are trained on large amounts of data, learn patterns from that data, and continuously improve their performance over time.
+Some common examples of Limited Memory AI include:
+•	ChatGPT
+•	Microsoft Copilot
+•	Self-driving cars
+•	Netflix recommendation systems
+•	YouTube recommendations
+•	Amazon product recommendations
+•	Virtual assistants
+
+These systems learn from user interactions, historical data, and feedback to provide more accurate and personalized results.
+Advantages
+
+•	Can learn from historical data.
+•	Improves performance over time.
+•	More accurate and efficient than Reactive Machines.
+•	Useful for real-world applications such as recommendations, automation, and decision-making.
+
+In short, Limited Memory AI is the most common form of AI today. It learns from past information, recognizes patterns, and makes smarter decisions, which is why technologies like ChatGPT, Microsoft Copilot, Netflix, and self-driving cars are possible.
+
+Theory of Mind AI
+
+Now let's talk about what AI may be capable of in the future.
+The next type of AI is called Theory of Mind AI. This is still a research concept, and no true Theory of Mind AI exists today.
+The idea behind this AI is that it would be able to understand human emotions, beliefs, intentions, and behavior. It would not only process data but also recognize how people feel and respond accordingly.
+For example, if a person is happy, sad, stressed, or frustrated, a Theory of Mind AI would be able to identify those emotions and adjust its responses or actions. It could understand human moods, social interactions, and emotional contexts much better than current AI systems.
+At present, researchers are actively working in this area, but AI has not yet reached this level of understanding. Today's AI can recognize patterns in data, but it does not truly understand human emotions or intentions the way humans do.
+
+Self-Aware AI
+
+The most advanced and theoretical form of AI is Self-Aware AI.
+Self-Aware AI refers to a system that would have consciousness and self-awareness. In other words, it would be aware of its own existence, understand its internal state, and potentially make decisions based on its own thoughts and understanding.
+This type of AI remains purely hypothetical. No such AI exists today, and scientists are still debating whether it will ever be possible.
+If Self-Aware AI were developed in the future, it could possess abilities far beyond current AI systems. However, this also raises important ethical, safety, and societal questions.
+For now, Self-Aware AI belongs to the realm of future possibilities rather than current reality.
+
+
+=====================================AI Types Based on Capabilities=====================================
+
+Now that we have discussed the types of AI, let's look at another important classification of AI based on its capabilities.
+ANI – Artificial Narrow Intelligence
+ANI stands for Artificial Narrow Intelligence. This is the type of AI that exists today.
+ANI is designed to perform specific tasks and can become highly efficient in those areas. However, it cannot perform tasks outside its designated domain.
+Examples include:
+•	Google Search
+•	Microsoft Copilot
+•	Siri
+•	Alexa
+•	Recommendation systems used by Netflix, YouTube, and Amazon
+Although ANI can perform some tasks better than humans, it does not possess general human intelligence.
+
+AGI – Artificial General Intelligence
+AGI stands for Artificial General Intelligence.
+AGI refers to an AI system that can think, learn, reason, and solve problems across different domains, similar to a human being. Unlike ANI, AGI would not be limited to a single task.
+An AGI system would be able to:
+•	Learn new skills independently
+•	Understand and apply knowledge across multiple fields
+•	Reason and make decisions like humans
+•	Adapt to unfamiliar situations
+Currently, AGI does not exist and remains a major goal of AI research.
+
+ASI – Artificial Super Intelligence
+ASI stands for Artificial Super Intelligence.
+This is a hypothetical future form of AI that would surpass human intelligence in almost every aspect, including learning, reasoning, creativity, and decision-making.
+ASI could potentially:
+•	Solve highly complex problems
+•	Make discoveries beyond human capabilities
+•	Learn and improve itself rapidly
+•	Outperform humans in virtually all intellectual tasks
+However, ASI remains a theoretical concept and has not been developed.
+
+AI Types by Capability:
+ANI (Artificial Narrow Intelligence) – Exists today
+AGI (Artificial General Intelligence) – Future goal
+ASI (Artificial Super Intelligence) – Theoretical future concept
+Today, systems such as ChatGPT, Microsoft Copilot, recommendation engines, virtual assistants, and autonomous vehicles belong primarily to the ANI category and mostly use Limited Memory AI techniques. AGI and ASI are still subjects of ongoing research and future development.
