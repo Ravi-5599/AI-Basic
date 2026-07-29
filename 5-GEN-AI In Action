@@ -1,0 +1,75 @@
+Capabilities of Generative AI
+•	Adaptability
+Generative AI models can adapt to various tasks and domains by learning from data and generating content tailored to specific contexts or requirements. Because generative AI is flexible, it can be used for a wide range of applications across different industries.
+•	Responsiveness
+Generative AI models can generate content in real-time, which results in rapid response times and dynamic interactions. This is particularly useful for chatbots, virtual assistants, and other interactive applications that require immediate responses.
+•	Simplicity
+Generative AI can simplify complex tasks by automating content creation processes. For example, AI language models can generate human-like text, which reduces the time and effort required for content generation.
+•	Creativity and exploration
+Generative AI models can generate novel ideas, designs, or solutions by combining and recombining elements in unique ways. This can foster creativity and exploration of new possibilities.
+•	Data efficiency
+Some generative AI models can learn from relatively small amounts of data and generate new samples consistent with the training data. This can be useful when data is scarce or difficult to obtain.
+•	Personalization
+Generative AI can create personalized content tailored to individual preferences or characteristics, which enhances user experiences and engagement.
+•	Scalability
+When trained, generative AI models can generate large amounts of content quickly. This makes the models suitable for tasks that require producing content at scale.
+
+Challenges of Generative AI
+•	Regulatory violations
+Risk
+Generative AI models trained on sensitive data might inadvertently generate an output that violates regulations, such as exposing personally identifiable information (PII).
+
+Mitigation
+To minimize the risk of privacy violations, implement strict data anonymization and privacy-preserving techniques during model training. To ensure compliance with privacy regulations, conduct thorough audits and assessment of the data used to train the model.
+•	Social risks
+Risk
+The possibility of unwanted content that might reflect negatively on your organization is a social risk.
+
+Mitigation
+Test and evaluation all models before deploying them in production.
+•	Data security and privacy concerns
+Risk
+The information shared with your model can include personal information and can potentially violate privacy laws.
+Mitigation
+•	Data Security– Ensure data is encrypted in transit and at rest, enforce least-privilege access controls on who can interact with AI workloads, and use AWS services like IAM, KMS, and VPC configurations to keep sensitive data within trusted boundaries.
+•	Data Minimization & Purpose Limitation– Redact or pseudonymize PII before sending data to the model. Only include the minimum context needed in each prompt to reduce the risk of sensitive data exposure.
+•	System Prompt Controls– Use system-level instructions to define strict boundaries for model behavior, preventing users from injecting or extracting sensitive data through prompt manipulation.
+•	Amazon Bedrock Guardrails– Configure Bedrock Guardrails to automatically filter PII, block harmful content, and enforce topic restrictions on both inputs and outputs — providing a managed, scalable layer of protection without custom code.
+•	Toxicity
+Risk
+Generative AI models can generate content that is inflammatory, offensive, or inappropriate.
+
+Mitigation
+•	Curate the training data by identifying these phrases in advance and removing them from the training data. This prevents them from being generated as output.
+•	Use guardrail models. These models will detect and filter out unwanted content.
+•	Hallucinations
+Risk
+The model generates inaccurate responses that are not consistent with the training data. These are called hallucinations.
+
+Mitigation
+Teach users that everything must be checked. Foundation models (FM) can’t be trusted to verify their own stories are based in reality and on facts. Hallucinations could be further mitigated by checking that content is verified with independent sources. Also, generated content can be marked as unverified to alert the user that verification will be necessary.
+•	Interpretability
+Risk
+Users might misinterpret the model’s output, which could lead to incorrect conclusions or decisions.
+
+Mitigation
+Use specific domain knowledge for model development and performance by providing key information for data model inputs. 
+•	Nondeterminism
+Risk
+The model might generate different outputs for the same input, which can cause problems in applications where reliability is key.  
+
+Mitigation
+Perform tests on the model to identify any sources of nondeterminism. Run the model multiple times and compare the output to ensure consistency.
+These challenges address issues related to data quality and bias. By proactively addressing them, customers can experience generative AI full potential while ensuring its responsible across various domains.
+
+Bias=======
+
+Now let's discuss an important topic called Bias in AI.
+Bias means that an AI model may favor a particular group, opinion, or perspective while making decisions. In other words, it may treat some people or situations unfairly because of the data it was trained on.
+For example, an AI system might generate positive responses for one group and negative responses for another group if the training data contains bias. This can lead to unfair or inaccurate outcomes.
+Bias in AI usually occurs when the training data is incomplete, unbalanced, or contains human prejudices. Since AI learns from data, it can also learn those biases.
+To reduce such issues, developers focus on Responsible AI practices. Responsible AI aims to make AI systems fair, transparent, reliable, safe, and accountable.
+In simple terms, the goal of Responsible AI is to ensure that AI makes fair decisions, avoids discrimination, and benefits everyone equally.
+
+
+
