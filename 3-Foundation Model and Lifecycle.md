@@ -4,27 +4,39 @@ Some examples of Foundation Models are GPT, Gemini, Llama, Claude .These models 
 To understand how a Foundation Model works, we need to look at the process through which it is trained and learns from large amounts of data. This training enables the model to understand patterns, language, and relationships within the data, allowing it to perform a wide range of tasks effectively.
 
 ####Data collection###
+
+
 The first step is data collection. In this process, developers decide what kind of data the model needs and from where it will be collected. Large amounts of data are gathered from various sources, such as books, websites, research papers, articles, images, audio recordings, videos, newspapers, and other publicly available content. The goal is to collect a diverse and high-quality dataset so that the model can learn different topics, languages, patterns, and types of information effectively.
 
 
 Data Preparation================
+
+
 The second step is Data Preparation. After collecting the data, it needs to be cleaned and organized. During this process, duplicate content is removed, incorrect information is filtered out, grammar and formatting issues are corrected, and unnecessary or low-quality data is eliminated. This ensures that the dataset is accurate, consistent, and useful for training.
 Once the data preparation process is complete, the cleaned data is ready to be used for model training. The better the quality of the data, the better the model can learn and perform.
 
 Model Training======================================
+
+
 In the model training phase, the AI model learns from the prepared data. It analyzes patterns, relationships, and underlying concepts within the data so that it can understand and respond to different types of inputs.
 During training, the model is exposed to a large amount of information and practices repeatedly to improve its performance. Over time, it learns grammar, language structures, facts, reasoning patterns, and how different concepts are connected.
 For example, the model learns how to answer questions, generate text, summarize content, write code, and perform many other tasks. Just as students improve through continuous study and practice, an AI model improves through repeated training on large datasets.
 The more effectively the model is trained, the better it becomes at understanding user requests and generating accurate and useful responses.
 
 Fine-Tuning========================================
+
+
 After the base model is trained, it can be customized for specific tasks using additional specialized data.
 Examples:
 •	Healthcare chatbot
 •	Customer support assistant
 •	Financial analysis assistant
 Goal: Adapt the model for a particular business or domain.
+
+
 Evaluation and Testing===================================
+
+
 The model is tested to check its accuracy, performance, fairness, and safety. Developers verify whether it provides correct and reliable responses.
 Goal: Ensure the model meets quality standards.
 Deployment
@@ -34,12 +46,17 @@ Examples:
 •	Microsoft Copilot
 •	Virtual Assistants
 Goal: Make the model available to end users.
+
  Inferencing
+ 
 Inferencing is the stage where the deployed model receives new user input and generates predictions or responses based on what it learned during training.
 Goal: Provide real-time answers and decisions.
- Monitoring and Improvement
+
+ Monitoring and Improvement------------------------------------
+ 
 The model's performance is continuously monitored. Feedback from users is collected, bugs are fixed, and the model is updated with new data and improvements.
 Goal: Keep the model accurate, safe, and up to date.
+
 
 In this entire process, various tools and technologies are used. Data scientists, AI engineers, and researchers use different software and platforms to collect, process, train, and manage data.
 For data collection, data is gathered from different sources. After that, specialized tools are used for data cleaning, data processing, and data preparation. These tools help remove errors, organize the data, and make it suitable for training.
