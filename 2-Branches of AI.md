@@ -1,12 +1,9 @@
-AI
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/baa70d30-18f9-4b30-afba-c3ee3de7d2f2" />
 
-Machine Learning
 
-Deep Learning
-
-Generative AI
 
 Now let's talk about the branches of AI. This is an important topic because it helps us understand how AI works, which technologies it uses, and the concepts behind it.
+
 
 ## **Branches of AI**
 
@@ -20,7 +17,7 @@ Machine Learning is a big topic and please read all info about this for clear un
 
 ### **Machine Learning (ML)**
 
-Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make decisions or predictions without being explicitly programmed for every task. Instea[...]
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make decisions or predictions without being explicitly programmed for every task. Instea
 For example, if you want a computer to recognize emails as "spam" or "not spam," you can provide thousands of sample emails. The machine learning model studies these examples and learns the common cha[...]
 Machine learning works in three basic steps. First, data is collected from various sources. Second, a model is trained using this data to learn patterns and relationships. Third, the trained model is [...]
 
