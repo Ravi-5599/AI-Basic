@@ -2,7 +2,7 @@ Now let's understand the types of Foundation Models. There are mainly three popu
 The first and most used type is the Language Model. After that comes the Diffusion Model, and finally the Multimodal Model.
 Let's understand these three models and how they work.
 
-Large language models=====================
+# Large language models
 Large language models (LLMs) can be based on a variety of architectures, but the most common architecture in today's state-of-the-art models is the transformer architecture. Transformer-based LLMs are powerful models that can understand and generate human-like text. They are trained on vast amounts of text data from the internet, books, and other sources, and learn patterns and relationships between words and phrases.
 To better understand how LLMs work, choose the following tabs to learn about tokens and embeddings and vectors.
 
