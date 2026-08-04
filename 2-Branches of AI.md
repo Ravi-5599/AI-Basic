@@ -1,12 +1,18 @@
-AI
-Machine Learning
-Deep Learning
-Generative AI
+# Branches of AI
+
+**AI**
+**Machine Learning**
+**Deep Learning**
+**Generative AI**
 
 Now let's talk about the branches of AI. This is an important topic because it helps us understand how AI works, which technologies it uses, and the concepts behind it.
 
+## Introduction
+
 AI branches are mainly divided into three parts: Machine Learning, Deep Learning, and Generative AI. Generative AI is the most widely used and advanced branch among them. Recently, its popularity has [...]
 Later we will talk about Transformer models
+
+## Machine Learning
 
 Machine Learning  is big topic and please read all info about this for clear understnading
 Machine Learning (ML) 
@@ -21,6 +27,8 @@ Machine learning is widely used in daily life, including recommendation systems 
 
 
 
+### Labeled data
+
 Labeled data---------------------------
 
 Labeled data is a dataset where each instance or example is accompanied by a label or target variable that represents the desired output or classification. These labels are typically provided by human[...]
@@ -28,12 +36,16 @@ Labeled data is a dataset where each instance or example is accompanied by a lab
 Example: In an image classification task, labeled data would consist of images along with their corresponding class labels (for example, cat, dog, car). 
 
 
+### Unlabeled data
+
 Unlabeled data========================
 
 Unlabeled data is a dataset where the instances or examples do not have any associated labels or target variables. The data consists only of input features, without any corresponding output or classif[...]
 
 Example: A collection of images without any labels or annotations
 
+
+### Structured data
 
 Structured data======================================
 
@@ -44,6 +56,8 @@ Tabular data: This includes data stored in spreadsheets, databases, or CSV files
 Time-series data: This type of data consists of sequences of values measured at successive points in time, such as stock prices, sensor readings, or weather data.
 
 
+### Unstructured data
+
 Unstructured data===============================
 
 Unstructured data is data that lacks a predefined structure or format, such as text, images, audio, and video. This type of data requires more advanced machine learning techniques to extract meaningfu[...]
@@ -52,6 +66,8 @@ Text data: This includes documents, articles, social media posts, and other text
 
 Image data: This includes digital images, photographs, and video frames.
 
+
+### Supervised learning
 
 supervised learning=============================================
 Supervised Learning is the most common type of Machine Learning. It is called "supervised" because the model learns under the guidance of labeled data. In labeled data, the correct answer is already k[...]
@@ -67,6 +83,8 @@ There are two main types of supervised learning:
 Supervised learning is widely used in healthcare, banking, weather forecasting, speech recognition, image classification, and recommendation systems because it provides accurate and reliable predictio[...]
 
 
+### Unsupervised learning
+
 Unsupervised learning ==========================================
 Unsupervised Learning is a type of Machine Learning in which the computer learns from data that has no labels or predefined answers. Unlike supervised learning, the model is not told what is correct o[...]
 Think of it like sorting a box of mixed fruits without knowing their names. You might group them based on color, size, or shape. Similarly, an unsupervised learning model analyzes data and groups simi[...]
@@ -80,6 +98,8 @@ Two common types of unsupervised learning are:
 •	Association – Finds relationships between items.
 Unsupervised learning is widely used in customer segmentation, recommendation systems, market analysis, fraud detection, and data exploration, helping organizations discover valuable insights from lar[...]
 
+
+### Reinforcement Learning
 
 Reinforcement Learning=======================================
 Reinforcement Learning (RL) is a type of Machine Learning where a computer learns by trying different actions and receiving rewards or penalties. Instead of being given correct answers, the system lea[...]
@@ -96,6 +116,8 @@ The learning process includes:
 •	Improving future decisions.
 Reinforcement learning is used in self-driving cars, robotics, game playing (such as AlphaGo), recommendation systems, and automated control systems. It helps machines learn the best decisions through[...]
 
+
+## Inferencing
 
 Inferencing=============================================
 
@@ -140,6 +162,8 @@ Conclusion
 Inferencing is the stage where a trained machine learning model is put to practical use. It applies learned patterns to new data and provides predictions, helping organizations make intelligent decisi[...]
 
 
+## Deep Learning
+
 Deep Learning –=====================================================
 
 Now let's talk about Deep Learning, which is a very interesting topic. Through this, we understand how AI works.
@@ -180,6 +204,8 @@ Applications of Deep Learning
 
 
 
+### Branches of Deep Learning
+
 Branches of Deep Learning=========
  Artificial Neural Networks (ANN)
 ANN is the basic form of Deep Learning. It consists of input, hidden, and output layers. It is used for prediction and classification tasks.
@@ -196,6 +222,8 @@ Applications: Weather forecasting, stock price prediction, chatbots.
 GANs can create new content such as images, videos, and music.
 Applications: AI-generated images, image enhancement.
 
+## Computer Vision
+
 Computer Vision=====================
 
 Computer Vision 
@@ -210,6 +238,8 @@ Applications of Computer Vision:
 •	Augmented reality
 Computer vision helps computers make intelligent decisions based on visual information.
 
+
+## Natural Language Processing
 
 Natural Language Processing================================
 
@@ -233,6 +263,8 @@ Applications of NLP
 •	Email spam detection
 Conclusion
 NLP is a technology that enables computers to understand and communicate in human language. It powers many everyday applications such as chatbots, voice assistants, translators, and search engines, ma[...]
+
+## Generative AI
 
 Generative AI (Gen AI)===================================
 Now let's talk about Generative AI. Generative AI is the latest branch of AI and one of the most popular. It can create content, generate text, create images, and even generate code. Generative AI use[...]
