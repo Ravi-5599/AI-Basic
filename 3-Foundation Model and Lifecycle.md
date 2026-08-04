@@ -3,7 +3,7 @@ A Foundation Model is a large AI model that is trained on massive amounts of dat
 Some examples of Foundation Models are GPT, Gemini, Llama, Claude .These models can be used for content creation, summarization, question answering, translation, code generation, and many other tasks.
 To understand how a Foundation Model works, we need to look at the process through which it is trained and learns from large amounts of data. This training enables the model to understand patterns, language, and relationships within the data, allowing it to perform a wide range of tasks effectively.
 
-"##Data collection"
+##Data collection
 
 
 The first step is data collection. In this process, developers decide what kind of data the model needs and from where it will be collected. Large amounts of data are gathered from various sources, such as books, websites, research papers, articles, images, audio recordings, videos, newspapers, and other publicly available content. The goal is to collect a diverse and high-quality dataset so that the model can learn different topics, languages, patterns, and types of information effectively.
