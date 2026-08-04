@@ -27,12 +27,16 @@ The more effectively the model is trained, the better it becomes at understandin
 
 
 After the base model is trained, it can be customized for specific tasks using additional specialized data.
-### Examples:
+
+**Example**
+
 •	Healthcare chatbot
+
 •	Customer support assistant
+
 •	Financial analysis assistant
 
- Goal: Adapt the model for a particular business or domain.
+ **Goal**: Adapt the model for a particular business or domain.
 
 
 # Evaluation and Testing
@@ -40,28 +44,33 @@ After the base model is trained, it can be customized for specific tasks using a
 
 The model is tested to check its accuracy, performance, fairness, and safety. Developers verify whether it provides correct and reliable responses.
 
-Goal: Ensure the model meets quality standards.
+**Goal**: Ensure the model meets quality standards.
 
 # Deployment
+
 Once testing is complete, the model is deployed so users can access it through applications, websites, APIs, or chatbots.
-Examples:
+
+**Examples**:
+
 •	ChatGPT
+
 •	Microsoft Copilot
+
 •	Virtual Assistants
 
- Goal: Make the model available to end users.
+ **Goal**: Make the model available to end users.
 
 # Inferencing
  
 Inferencing is the stage where the deployed model receives new user input and generates predictions or responses based on what it learned during training.
 
- Goal: Provide real-time answers and decisions.
+ **Goal**: Provide real-time answers and decisions.
 
  # Monitoring and Improvement
  
 The model's performance is continuously monitored. Feedback from users is collected, bugs are fixed, and the model is updated with new data and improvements.
 
- Goal: Keep the model accurate, safe, and up to date.
+ **Goal**: Keep the model accurate, safe, and up to date.
 
 
 In this entire process, various tools and technologies are used. Data scientists, AI engineers, and researchers use different software and platforms to collect, process, train, and manage data.
